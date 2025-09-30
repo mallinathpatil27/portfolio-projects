@@ -24,19 +24,15 @@ I bring a proven track record of enhancing data pipeline performance (up to 30% 
 
 ### 🎧 Podcast Listener Analytics – Entertainment Domain  
 **Tech Stack**: PySpark, Databricks, AWS S3, AWS Lambda  
-**Duration**: Nov 2024 – May 2025
 
 - Built scalable ingestion and transformation pipelines for podcast listener data.
 - Designed multi-layer architecture: **Landing → Silver → Analytical**
 - Implemented listener mapping algorithms across multiple data sources.
 - Orchestrated ETL workflows using **Databricks Workflows** with minimal manual intervention.
 - Improved query performance through **tuning of PySpark jobs and SQL transformations**.
-
 ---
-
 ### 🔄 Redshift to Salesforce Migration  
 **Tech Stack**: AWS Glue, AWS S3, Python Bulk API v2, PySpark  
-**Duration**: May 2025 – Present
 
 - Delivered **end-to-end data migration** for 17M+ member records across key Salesforce objects.
 - Used **AWS Glue workflows** and config-based design for flexibility and scalability.
@@ -44,10 +40,8 @@ I bring a proven track record of enhancing data pipeline performance (up to 30% 
 - Achieved <1% error rate in production and received a **Certificate of Excellence** from the client.
 
 ---
-
 ### 🧮 IFRS17 Compliance Platform – Financial Services  
 **Tech Stack**: AWS Glue, PySpark, Athena, RDS, Airflow  
-**Duration**: Dec 2022 – Jan 2024
 
 - Built and deployed pipelines to support IFRS17 regulatory requirements.
 - Used **Athena + RDS** for efficient data querying and storage.
@@ -58,7 +52,6 @@ I bring a proven track record of enhancing data pipeline performance (up to 30% 
 
 ### 📊 Metadata Dashboard Automation – BI4BI  
 **Tech Stack**: Power BI, SQL Server, Python, REST APIs  
-**Duration**: Jan 2024 – Oct 2024
 
 - Automated metadata ingestion using Python + REST APIs.
 - Delivered **Power BI dashboards** to visualize key data trends and business KPIs.
@@ -68,7 +61,6 @@ I bring a proven track record of enhancing data pipeline performance (up to 30% 
 
 ### 🧹 Legacy Data Platform –  
 **Tech Stack**: PySpark, Python, SQL, Amazon RDS  
-**Duration**: Nov 2019 – Nov 2022
 
 - Designed and optimized scalable ETL pipelines for client use cases.
 - Enhanced **Spark job performance** and ensured system stability.
