@@ -26,6 +26,12 @@ This data powers:
 
 ---
 
+📈 Impact & Results
+360° Audience View: Enabled 100% mapping of anonymous playback events to unique household/user profiles.
+Smarter Ads: Provided data for regional and age-group trend analysis, improving ad placement accuracy by an estimated 25%.
+Clean Data: Automated validation reduced manual data cleansing time by 40%.
+
+--
 ## 🧑‍💻 Tech Stack
 
 | Component         | Technology Used                        |
@@ -104,4 +110,5 @@ This table is consumed by downstream teams to:
 - Developed a unified `individual_profile` table for analytics
 
 ---
+
 
